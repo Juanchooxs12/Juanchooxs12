@@ -17,7 +17,7 @@ Soy de chile, tengo 23 años y hace poco tiempo me titulé como Analista program
 
 📫 Contacto: nachoz@hotmail.cl
 
-📜 En este repo tenggo los certificados que he ganado 👉: 
+📜 En este repo tenggo los certificados que he ganado 👉: https://github.com/Juanchooxs12/Certificados 
 <!--Intro end-->
   </p>
 <br>
