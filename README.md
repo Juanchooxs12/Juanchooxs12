@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-Soy de chile, tengo 24 años y hace algunos meses me titulé como Analista programador y terminé un bootcamp full stack de Python, he estado aprendiendo por mi cuenta, pero deseo tener mis primeras experiencias laborales como programador, me considero una persona proactiva que trata de aportar siempre en el trabajo y me gusta estar aprendiendo constantemente nuevas cosas, espero lograr ser una persona autosuficiente y poder ser un buen desarrollador.
+Chileno,  24 años ,  titulado recientemente como Analista programador. Hace poco tiempo  me certifiqué en  un curso de bootcamp full stack de Python. He estado aprendiendo por mi cuenta, pero deseo tener mi primera experiencia laboral como programador junior. Me considero una persona proactiva que trata de aportar siempre en el trabajo y me gusta estar aprendiendo constantemente nuevas cosas, espero lograr ser una persona autosuficiente y poder ser un buen desarrollador.
   
 🎓 Egresado como ANALISTA PROGRAMADOR
 
