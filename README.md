@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-Chileno,  24 años ,  titulado recientemente como Analista programador. Hace poco tiempo  me certifiqué en  un curso de bootcamp full stack de Python. He estado aprendiendo por mi cuenta, pero deseo tener mi primera experiencia laboral como programador junior. Me considero una persona proactiva que trata de aportar siempre en el trabajo y me gusta estar aprendiendo constantemente nuevas cosas, espero lograr ser una persona autosuficiente y poder ser un buen desarrollador.
+Hola! soy de Chile y quiero ser un Desarrollador Back-End, actualmente me encuentro en búsqueda de mi primer empleo, a pesar de aún no conseguir un primer empleo como desarrollador he seguido aprendiendo de forma autodidacta conociendo un poco el lado del Front-End y tratando de enfocarme más en el perfil de Back-End con Python, sigo aprendiendo por mientras y estaré subiendo proyectos a mi repositorio cuando los vaya terminando, espero poder conseguir mis objetivos y en el camino poder aprender mucho y conocer mucha gente increíble.
   
 🎓 Egresado como ANALISTA PROGRAMADOR
 
@@ -17,7 +17,7 @@ Chileno,  24 años ,  titulado recientemente como Analista programador. Hace poc
 
 📫 Contacto: nachoz@hotmail.cl
 
-📜 En este repo tenggo los certificados que he ganado 👉: https://github.com/Juanchooxs12/Certificados 
+📜 En este repo tengo los certificados que he ganado 👉: https://github.com/Juanchooxs12/Certificados 
 <!--Intro end-->
   </p>
 <br>
