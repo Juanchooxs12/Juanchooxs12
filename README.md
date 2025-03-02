@@ -26,7 +26,7 @@ Hola! soy de Chile y quiero ser un Desarrollador Back-End, actualmente me encuen
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,bootstrap,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,django,bootstrap,mysql,vscode" />
   </a>
 </p>
 <br>
