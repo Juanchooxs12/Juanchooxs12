@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-Hola! soy de Chile y quiero ser un Desarrollador Back-End, actualmente me encuentro en búsqueda de mi primer empleo, a pesar de aún no conseguir un primer empleo como desarrollador he seguido aprendiendo de forma autodidacta conociendo un poco el lado del Front-End y tratando de enfocarme más en el perfil de Back-End con Python, sigo aprendiendo por mientras y estaré subiendo proyectos a mi repositorio cuando los vaya terminando, espero poder conseguir mis objetivos y en el camino poder aprender mucho y conocer mucha gente increíble.
+Hola! soy de Chile y quiero ser un Desarrollador Back-End, actualmente me encuentro en búsqueda de mi primer empleo, a pesar de aún no conseguir un primer empleo como desarrollador he seguido aprendiendo de forma autodidacta conociendo un poco el lado del Front-End y tratando de aprender más del perfil de Back-End, sigo aprendiendo por mientras y estaré subiendo proyectos a mi repositorio cuando los vaya terminando, espero poder conseguir mis objetivos y en el camino poder aprender mucho y conocer mucha gente increíble.
   
 🎓 Egresado como ANALISTA PROGRAMADOR
 
